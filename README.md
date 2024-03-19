@@ -4,11 +4,11 @@ I'm a Software Developer graduating in Computer Engineering.
 
 #### 🛠️ My current tech stack includes:
 
-- Go: ```Fiber```
-- Java: ```Spring```
+- Go: ```Gin```, ```Fiber```
+- Java: ```Spring```, ```Quarkus```
 - C#: ```ASP.NET Core```
-- Node.js: ```Nest```
-- Rust: ```Axum```
+- Node.js: ```Nest```, ```Express```
+- Rust: ```Actix```, ```Axum```
 
 #### 🔬 I also have solid knowledge in:
 
