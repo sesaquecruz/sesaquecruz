@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-I'm a Software Developer graduating in Computer Engineering.
+I'm a Software Engineer.
 
 #### 🛠️ My current tech stack includes:
 
