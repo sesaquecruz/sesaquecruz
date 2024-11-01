@@ -4,20 +4,21 @@ I'm a Software Engineer.
 
 #### 🛠️ My current tech stack includes:
 
-- Go: ```Gin```, ```Fiber```
-- Node.js: ```Nest```, ```Express```
-- Java: ```Spring```, ```Quarkus```
-- C#: ```ASP.NET Core```
-- Rust: ```Actix```, ```Axum```
+- **Go:** `Gin`, `Fiber`
+- **Node.js:** `Nest`, `Express`
+- **Java:** `Spring`, `Quarkus`
+- **C#:** `ASP.NET Core`
+- **Rust:** `Actix`, `Axum`
 
-#### 🔬 I also have solid knowledge in:
 
-- Linux
-- Postgres
-- RabbitMQ
-- Kafka
-- Docker
-- Kubernetes
+#### 🔬 I also have solid knowledge of:
+
+- **Linux**
+- **Postgres**
+- **RabbitMQ**
+- **Kafka**
+- **Docker**
+- **Kubernetes**
 
 #### 📫 You can reach me on:
 
